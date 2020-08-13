@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sidebar.css";
+import "./SidebarOption.css";
 
 {
   /* Components start with capital - Icon is a component */
